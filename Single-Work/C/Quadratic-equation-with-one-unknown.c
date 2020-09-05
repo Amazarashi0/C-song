@@ -10,13 +10,13 @@ int main (void)
     {
         x1 = (-b + sqrt(delta)) / (2*a);
         x2 = (-b - sqrt(delta)) / (2*a);
-        printf("2j，x1 = %f, x2 = %f\n", x1, x2); // 该一元二次方程有两个解
+        printf("2j, x1 = %f, x2 = %f\n", x1, x2); // 该一元二次方程有两个解
     }
     else if (delta == 0)
     {
         x1 = (-b) / (2*a);
         x2 = x1;
-        printf("1j，x1 = x2 = %f\n", x1, x2); // 该一元二次方程两个相等的解
+        printf("1j, x1 = x2 = %f\n", x1); // 该一元二次方程两个相等的解
     }
     else if (delta < 0)
     {
