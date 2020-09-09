@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.defaultLanguage": "c",
+		"workbench.colorTheme": "One Dark Pro",
+		"workbench.colorCustomizations": {
+			"activityBar.foreground": "#39C5BB"
+		},
+		"workbench.settings.useSplitJSON": true,
+		"window.zoomLevel": 0.2,
+		"git.ignoreMissingGitWarning": true
+	}
+}
