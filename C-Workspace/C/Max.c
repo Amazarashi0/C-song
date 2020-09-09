@@ -4,16 +4,16 @@ int main()
     int max(int x, int y)
     {
         int z;
-        
+
         if (x > y) z = x;
-        else  z = y; 
+        else  z = y;
 
         return z;
     }
-    
+
     int a, b, c;
 
-    scanf("%d %d",&a, &b);
+    scanf("%d %d", &a, &b);
     c = max(a, b);
 
     printf("最大值是%d\n", c);
@@ -29,9 +29,9 @@ int main()
 int max(int x, int ,y)
 {
     int z;
-    
+
     if (x > y) z = x;
-    else  z = y; 
+    else  z = y;
 
     return z;
 }
