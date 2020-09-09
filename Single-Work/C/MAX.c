@@ -2,7 +2,7 @@
 int main()
 {
     int max(int x, int y)
-    {5
+    {
         int z;
         
         if (x > y) z = x;
