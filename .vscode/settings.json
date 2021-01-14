@@ -36,7 +36,7 @@
         "activityBar.foreground": "#39C5BB" // 自定义颜色；想定义其它位置参见官方文档
     },
     "workbench.settings.useSplitJSON": true, // 恢复手动编辑时的两列设置
-    "window.zoomLevel": 0.2, // 整体放大
+    "window.zoomLevel": 0, // 整体放大
 
     "git.enabled": true, // 如果你不用git，可以考虑关闭它
     "git.ignoreMissingGitWarning": true, // 同上
